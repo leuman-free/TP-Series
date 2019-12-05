@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+  background-color: black;
+
+}
+
+#h1{
+    text-align: center;
+    margin-top: 10px;
+    color: green;
+}
+
+.serie{
+    border:none;
+    padding: 3%;
+    border-radius: 1.5%;
+    margin-top: 22%;
+}
+
+.serie:focus{
+    border-bottom: 2px solid blue;
+}
+
+.container{
+  display: flex;
+  justify-content: space-between;
+
+}
+#mostrar{
+  display: flex;
+  justify-content: center;  
+}

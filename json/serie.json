@@ -1,0 +1,8 @@
+{
+    "series":[
+        {"nombre" : "Breakin Bad", "descripcion": "Profesor con cancer, empieza a cocinar metanfetaminas", "img" : "../img/BD.webp"},
+        {"nombre" : "La Casa de Papel", "descripcion": "El Robo mas Grande de la Pantalla", "img" : "../img/LCP.jpg"},
+        {"nombre" : "The Walking Dead", "descripcion": "Los Zombies llegaron para quedarse", "img" : "../img/twd.jpeg"},
+        {"nombre" : "Game of Thrones", "descripcion": "El Juegos de Tronos A Empezado", "img" : "../img/Got.jpeg"}
+    ]
+}
